@@ -160,7 +160,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/AdityaRoy134679) - adityaroyofficial20@gmail.com
+Your Name - [@AdityaRoy134679](https://twitter.com/AdityaRoy134679) - adityaroyofficial20@gmail.com
 
 Project Link: [https://github.com/Adityaroy000/currency-converter](https://github.com/Adityaroy000/currency-converter)
 
