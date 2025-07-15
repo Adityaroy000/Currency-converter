@@ -2,7 +2,13 @@
 
 A modern, responsive currency converter built with React, Vite, and Tailwind CSS. Convert between different currencies with real-time exchange rates and a beautiful glassmorphism UI design.
 
-![Currency Converter Screenshot](https://images.pexels.com/photos/3532540/pexels-photo-3532540.jpeg?auto=compress&cs=tinysrgb&w=800&h=400&dpr=2)
+<div align="center">
+  <img src="./public/currency-converter-screenshot.png" alt="Currency Converter Application Screenshot" width="800" />
+</div>
+
+## 🎯 Live Demo
+
+Experience the live application with real-time currency conversion and beautiful glassmorphism design.
 
 ## ✨ Features
 
