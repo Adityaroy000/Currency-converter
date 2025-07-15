@@ -164,9 +164,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
+Your Name - [@yourusername](https://twitter.com/AdityaRoy134679) - adityaroyofficial20@gmail.com
 
-Project Link: [https://github.com/yourusername/currency-converter](https://github.com/yourusername/currency-converter)
+Project Link: [https://github.com/Adityaroy000/currency-converter](https://github.com/Adityaroy000/currency-converter)
 
 ---
 
