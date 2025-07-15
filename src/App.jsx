@@ -50,9 +50,9 @@ function App() {
   }
 
   // Auto-convert when amount, from, to, or currencyInfo changes
-  useEffect(() => {
-    convert();
-  }, [amount, from, to, currencyInfo]);
+  // useEffect(() => {
+  //   convert();
+  // }, [amount, from, to, currencyInfo]);
 
   const swap = ()=>{
     setFrom(to)
