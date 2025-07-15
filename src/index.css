@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for select dropdown */
+select {
+  max-height: 200px;
+}
+
+select option {
+  padding: 8px;
+}
+
+/* Limit dropdown height in webkit browsers */
+select::-webkit-scrollbar {
+  width: 8px;
+}
+
+select::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+select::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+select::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
